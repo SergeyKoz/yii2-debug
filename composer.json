@@ -1,5 +1,5 @@
 {
-	"name": "zhuravljov/yii2-debug",
+	"name": "sergeykoz/yii2-debug",
 	"description": "Yii debug toolbar",
 	"keywords": ["yii", "extension", "debug"],
 	"homepage": "https://github.com/zhuravljov/yii2-debug",
@@ -9,6 +9,10 @@
 		{
 			"name": "Roman Zhuravlev",
 			"email": "zhuravljov@gmail.com"
+		},
+		{
+			"name": "Serhii Kozin",
+			"email": "s.kozin@platform.live"
 		}
 	],
 	"require": {
